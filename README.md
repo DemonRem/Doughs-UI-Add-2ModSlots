@@ -2,11 +2,9 @@
 
 **Description:**
 This modlet adds 2 more mod slots for items BUT the "tiering" of the item still determines the mod slots available and the tiering was changed only for items with an existing tiering -> slots of
-
-| Item tier | Mod Slots | Note |
-|:------------ | :-------------|
+| Item tier | Mod Slots | 
+| :------------ | :------------- |
 | 1,2,3,4,5,6 | 1,1,2,2,3,4 |
-
 
 The tiering -> slots was changed to
 | Item tier | Mod Slots | 
