@@ -3,14 +3,17 @@
 **Description:**
 This modlet adds 2 more mod slots for items BUT the "tiering" of the item still determines the mod slots available and the tiering was changed only for items with an existing tiering -> slots of
 
+
 | Item tier | Mod Slots | Note |
 | :------------ | :------------- |
 | 1,2,3,4,5,6 | 1,1,2,2,3,4 |
+
 
 The tiering -> slots was changed to
 | Item tier | Mod Slots | Note |
 | :------------ | :------------- |
 | 1,2,3,4,5,6 | 1,2,4,5,7,8 |
+
 
 NOTE: For items with a different tiering -> slots, no changes were made.  Also: If an item has 0 mod slots in vanilla, it will still have 0 slots.
 
